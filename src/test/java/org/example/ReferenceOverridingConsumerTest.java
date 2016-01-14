@@ -6,9 +6,6 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * @author Thomas Eizinger, Senacor Technologies AG.
- */
 public class ReferenceOverridingConsumerTest {
 
     private Consumer<Boolean> consumer;
